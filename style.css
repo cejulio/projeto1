@@ -1,4 +1,16 @@
 #imagem-neymar{
     width: 700px;
-    border: solid 3px white;
+    border: solid 3px rgb(255, 255, 255);
 }
+
+.principal{
+background-color: rgb(0, 0, 0);
+color: aliceblue;
+}
+
+.rodape{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
