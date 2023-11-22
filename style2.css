@@ -1,9 +1,11 @@
 cabecalho{
-    background-color: darkblue;
+    background-color: navy;
     border: 10px;
-    border-color: rgb(229, 255, 0)200, 255, 0) ;
     border-style: dashed;
     margin: 10px;
-    color: darkgreen;
-    font-weight:400;
- }
+    color: white;
+    font-weight: 400;
+
+}
+   
+ 
