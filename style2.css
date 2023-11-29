@@ -1,8 +1,8 @@
 cabecalho{
     background-color: navy;
-    border: 5px;
+    border: 10px;
     border-style: dashed;
-    margin: 5px;
+    margin: 10px;
     color: white;
     font-weight: 200;
 
@@ -18,7 +18,7 @@ cabecalho{
     border: 10px;
     border-color: white;
     border-style: double;
-    margin: 30px;
+    margin: 10px;
     color: yellow;
 }
    
